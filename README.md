@@ -49,10 +49,10 @@ Por último, se o LED vermelho for aceso, um alarme será ativado como sinal de 
 
 ## GRUPO PARTICIPANTE:
 
-Ruan Melo RM557599
+Ruan Melo RM: 557599
 
 Pedro Josué RM:554913
 
-Mayla Maricato RM557754
+Mayla Maricato RM: 557754
 
-Rodrigo Jimenez RM558148
+Rodrigo Jimenez RM: 558148
